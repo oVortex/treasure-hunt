@@ -13,7 +13,7 @@ Get 800GB free on Treasure Cloud
 
 2. Config
 
-   Open [config.ts](./config.ts) and replace the invite link with [your own](https://app.treasure.cloud/settings/referrals).
+   Open [config.ts](./config.ts) and replace the invite link with [your own](https://app.treasure.cloud/auth/signup?code=ODg5ZTQwZTMtY2VlNC0xMWViLWI4ZjItY2QzYjc2ODI0NzEzOmYwYTE0NjdhLTMyYzEtMTFlYi1iMWI4LTViYTQzMmY1ZjBkMA==).
 
 3. Run
 
